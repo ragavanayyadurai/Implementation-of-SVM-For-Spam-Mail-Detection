@@ -1,5 +1,6 @@
 # Implementation-of-SVM-For-Spam-Mail-Detection
-
+# EXPERIMENT NO: 9
+# DATE: 09.11.23
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
